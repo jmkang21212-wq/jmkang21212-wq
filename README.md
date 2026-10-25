@@ -9,7 +9,6 @@ AI로 만든 기능이 실제 서비스에서 쓸 수 있는지 측정하고 검
 <!-- 포트폴리오·블로그 주소가 정해지면 아래 주석을 풀고 주소를 바꿔 주세요
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://example.com)
 -->
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/jmkang212)
 
 ---
 
